@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output</folder>
+	<filename>Drone Solar Panel Inspection with FLIR-zfRaq2d0kZframe1860.jpg</filename>
+	<path>/Users/TONY-STARK/SolarImaging/output/Drone Solar Panel Inspection with FLIR-zfRaq2d0kZframe1860.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>340</ymin>
+			<xmax>578</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>107</ymin>
+			<xmax>635</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
